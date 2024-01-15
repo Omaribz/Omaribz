@@ -1,4 +1,4 @@
-Hi 👋 My name is Cynthia
+Hi 👋 I'm Cynthia
 ========================
 
 Frontend Developer
@@ -9,13 +9,13 @@ I'm a passionate self-taught web developer and an aspiring full stack web develo
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [omaribacynthia2022@gmail.com](mailto:omaribacynthia2022@gmail.com)
-* 🚀  I'm currently working on [mentorlst app](http://mentorlst.com/)
+* 🚀  I'm currently working at [SpaceYaTech](https://spaceyatech.com/)
 * 🧠  I'm learning JS, React, MySQL
 * 🏆  I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source)
 * ⚡  Fun fact: I have two cats!
 
 
-### My Tech Stack:
+### 💻 My Tech Stack:
 
 
 <p align="left">
@@ -27,9 +27,8 @@ I'm a passionate self-taught web developer and an aspiring full stack web develo
 
 <p align="left"> <a href="https://www.github.com/Omaribz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cynthia-omariba-1a1630a6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/cynthia_ceecm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### 🏆 My GitHub Stats:
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Omaribz"><img src="https://github-readme-stats.vercel.app/api?username=Omaribz&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="Omaribz's GitHub stats" /></a>
 
