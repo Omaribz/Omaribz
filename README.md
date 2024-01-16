@@ -10,7 +10,7 @@ I'm a passionate self-taught web developer and an aspiring full stack web develo
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [omaribacynthia2022@gmail.com](mailto:omaribacynthia2022@gmail.com)
 * 🚀  I'm currently working at [SpaceYaTech](https://spaceyatech.com/)
-* 🧠  I'm learning JS, React, MySQL
+* 🧠  I'm learning JS, React, Nodejs
 * 🏆  I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source)
 * ⚡  Fun fact: I have two cats!
 
