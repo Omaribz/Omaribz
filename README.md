@@ -4,7 +4,6 @@ Hi 👋 I'm Cynthia
 Frontend Developer
 ------------------
 
-I'm a passionate self-taught web developer and an aspiring full stack web developer.
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
 
 * 🌍  I'm based in Nairobi, Kenya
