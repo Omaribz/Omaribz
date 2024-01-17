@@ -8,9 +8,9 @@ Frontend Developer
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [omaribacynthia2022@gmail.com](mailto:omaribacynthia2022@gmail.com)
-* 🚀  I'm currently working at [SpaceYaTech](https://spaceyatech.com/)
-* 🧠  I'm learning JS, React, Nodejs
-* 🏆  I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source)
+* 💬  Ask me about the awesome projects that you want to be built, and everything related to tech.
+* 🧠  I'm currently learning Nodejs and SQL.
+* 🏆  I'm striving to increase my github stats by tackling new challenges and contributing to open-source.
 * ⚡  Fun fact: I have two cats!
 
 
